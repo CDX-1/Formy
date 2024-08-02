@@ -1,0 +1,6 @@
+name: Formy
+version: '1.0.0'
+main: net.cdx.formy.Formy
+api-version: '1.19'
+authors: [ CDX ]
+description: A plugin offering access to the Bedrock Forms system on Java servers
